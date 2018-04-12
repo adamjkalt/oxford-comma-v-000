@@ -6,3 +6,4 @@ if array.length == 3
 else array.length > 3
   array.sort
 end
+end
