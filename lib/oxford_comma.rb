@@ -5,6 +5,5 @@ if array.size = 3
   array.insert(1, ',')
   array.insert(2, ', and')
 else array.size > 3
-  array.sort
 end
 end
